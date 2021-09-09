@@ -2,6 +2,8 @@
 #include <list>
 using namespace std;
 
+//Ejercicio de compactar
+
 void compacta(list<int> &L,list<int> &S){
 	
 	list<int>::iterator itA=S.begin();
